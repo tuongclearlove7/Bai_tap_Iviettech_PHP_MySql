@@ -1,4 +1,4 @@
-## Bài tập PHP vs MySQL 
+## Bài tập PHP&MySQL 
 
 ## Name
 ```js
